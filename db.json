@@ -31,16 +31,16 @@
       "location": "Greenpoint"
     },
     {
-      "id": 6,
-      "description": "Beautiful couch",
-      "image": "./images/couch.jpg",
-      "location": "Bay Ridge"
-    },
-    {
       "id": 7,
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "Lawnmower",
+      "image": "https://www.rd.com/wp-content/uploads/2022/08/lawnmower-GettyImages-1096126656-MLedit.jpg",
+      "location": "The Bronx",
+      "id": 8
     }
   ]
 }
